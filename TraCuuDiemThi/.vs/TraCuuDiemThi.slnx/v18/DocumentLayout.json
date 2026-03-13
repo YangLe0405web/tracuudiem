@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSDL Ph\u00E2n T\u00E1n\\TraCuuDiemThi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7438961C-B7D4-4090-1DAF-B80BEA8A6F90}|TraCuuDiemThi\\TraCuuDiemThi.csproj|d:\\csdl ph\u00E2n t\u00E1n\\tracuudiemthi\\tracuudiemthi\\database\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7438961C-B7D4-4090-1DAF-B80BEA8A6F90}|TraCuuDiemThi\\TraCuuDiemThi.csproj|solutionrelative:tracuudiemthi\\database\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7438961C-B7D4-4090-1DAF-B80BEA8A6F90}|TraCuuDiemThi\\TraCuuDiemThi.csproj|d:\\csdl ph\u00E2n t\u00E1n\\tracuudiemthi\\tracuudiemthi\\config\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7438961C-B7D4-4090-1DAF-B80BEA8A6F90}|TraCuuDiemThi\\TraCuuDiemThi.csproj|solutionrelative:tracuudiemthi\\config\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7438961C-B7D4-4090-1DAF-B80BEA8A6F90}|TraCuuDiemThi\\TraCuuDiemThi.csproj|d:\\csdl ph\u00E2n t\u00E1n\\tracuudiemthi\\tracuudiemthi\\models\\thisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7438961C-B7D4-4090-1DAF-B80BEA8A6F90}|TraCuuDiemThi\\TraCuuDiemThi.csproj|solutionrelative:tracuudiemthi\\models\\thisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7438961C-B7D4-4090-1DAF-B80BEA8A6F90}|TraCuuDiemThi\\TraCuuDiemThi.csproj|d:\\csdl ph\u00E2n t\u00E1n\\tracuudiemthi\\tracuudiemthi\\router\\queryrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7438961C-B7D4-4090-1DAF-B80BEA8A6F90}|TraCuuDiemThi\\TraCuuDiemThi.csproj|solutionrelative:tracuudiemthi\\router\\queryrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7438961C-B7D4-4090-1DAF-B80BEA8A6F90}|TraCuuDiemThi\\TraCuuDiemThi.csproj|d:\\csdl ph\u00E2n t\u00E1n\\tracuudiemthi\\tracuudiemthi\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7438961C-B7D4-4090-1DAF-B80BEA8A6F90}|TraCuuDiemThi\\TraCuuDiemThi.csproj|solutionrelative:tracuudiemthi\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7438961C-B7D4-4090-1DAF-B80BEA8A6F90}|TraCuuDiemThi\\TraCuuDiemThi.csproj|d:\\csdl ph\u00E2n t\u00E1n\\tracuudiemthi\\tracuudiemthi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7438961C-B7D4-4090-1DAF-B80BEA8A6F90}|TraCuuDiemThi\\TraCuuDiemThi.csproj|solutionrelative:tracuudiemthi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Queryrouter.cs",
+              "DocumentMoniker": "D:\\CSDL Ph\u00E2n T\u00E1n\\TraCuuDiemThi\\TraCuuDiemThi\\Router\\Queryrouter.cs",
+              "RelativeDocumentMoniker": "TraCuuDiemThi\\Router\\Queryrouter.cs",
+              "ToolTip": "D:\\CSDL Ph\u00E2n T\u00E1n\\TraCuuDiemThi\\TraCuuDiemThi\\Router\\Queryrouter.cs",
+              "RelativeToolTip": "TraCuuDiemThi\\Router\\Queryrouter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:50:43.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Databaseconfig.cs",
+              "DocumentMoniker": "D:\\CSDL Ph\u00E2n T\u00E1n\\TraCuuDiemThi\\TraCuuDiemThi\\Config\\Databaseconfig.cs",
+              "RelativeDocumentMoniker": "TraCuuDiemThi\\Config\\Databaseconfig.cs",
+              "ToolTip": "D:\\CSDL Ph\u00E2n T\u00E1n\\TraCuuDiemThi\\TraCuuDiemThi\\Config\\Databaseconfig.cs",
+              "RelativeToolTip": "TraCuuDiemThi\\Config\\Databaseconfig.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:30:38.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connectionmanager.cs",
+              "DocumentMoniker": "D:\\CSDL Ph\u00E2n T\u00E1n\\TraCuuDiemThi\\TraCuuDiemThi\\Database\\Connectionmanager.cs",
+              "RelativeDocumentMoniker": "TraCuuDiemThi\\Database\\Connectionmanager.cs",
+              "ToolTip": "D:\\CSDL Ph\u00E2n T\u00E1n\\TraCuuDiemThi\\TraCuuDiemThi\\Database\\Connectionmanager.cs",
+              "RelativeToolTip": "TraCuuDiemThi\\Database\\Connectionmanager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:30:35.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thisinh.cs",
+              "DocumentMoniker": "D:\\CSDL Ph\u00E2n T\u00E1n\\TraCuuDiemThi\\TraCuuDiemThi\\Models\\Thisinh.cs",
+              "RelativeDocumentMoniker": "TraCuuDiemThi\\Models\\Thisinh.cs",
+              "ToolTip": "D:\\CSDL Ph\u00E2n T\u00E1n\\TraCuuDiemThi\\TraCuuDiemThi\\Models\\Thisinh.cs",
+              "RelativeToolTip": "TraCuuDiemThi\\Models\\Thisinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:30:21.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mainform.cs",
+              "DocumentMoniker": "D:\\CSDL Ph\u00E2n T\u00E1n\\TraCuuDiemThi\\TraCuuDiemThi\\Forms\\Mainform.cs",
+              "RelativeDocumentMoniker": "TraCuuDiemThi\\Forms\\Mainform.cs",
+              "ToolTip": "D:\\CSDL Ph\u00E2n T\u00E1n\\TraCuuDiemThi\\TraCuuDiemThi\\Forms\\Mainform.cs",
+              "RelativeToolTip": "TraCuuDiemThi\\Forms\\Mainform.cs",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAkwKUBAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:55:20.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSDL Ph\u00E2n T\u00E1n\\TraCuuDiemThi\\TraCuuDiemThi\\Program.cs",
+              "RelativeDocumentMoniker": "TraCuuDiemThi\\Program.cs",
+              "ToolTip": "D:\\CSDL Ph\u00E2n T\u00E1n\\TraCuuDiemThi\\TraCuuDiemThi\\Program.cs",
+              "RelativeToolTip": "TraCuuDiemThi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:51:34.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
